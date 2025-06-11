@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Gustavo Reis!
+# 👋 Olá, eu sou Dinael Silva!
  
 Desenvolvedor apaixonado por criar aplicações web modernas, API's e IA's. Trabalho com **Typescript**, **JavaScript**, **React**, **Node.js**, **Python**, **MySQL**, **Postgres**, **Docker**, e **REST API**.
  
