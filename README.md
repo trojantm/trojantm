@@ -24,7 +24,7 @@ Desenvolvedor apaixonado por criar aplicações web modernas, API's e IA's. Trab
 ![n8n](https://img.shields.io/badge/n8n-FF6A00?style=flat-square&logo=n8n&logoColor=white)
  
 ## 📊 Minhas Estatísticas
-![Gush4M's GitHub Stats](https://github-readme-stats.vercel.app/api?username=trojantm&show_icons=true&theme=radical)
+![TROJANTM GitHub Stats](https://github-readme-stats.vercel.app/api?username=trojantm&show_icons=true&theme=radical)
  
 ## 📫 Entre em Contato
 - [LinkedIn](https://www.linkedin.com/in/dinael-silva-658313112)
