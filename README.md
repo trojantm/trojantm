@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Dinael Silva!
  
-Desenvolvedor apaixonado por criar aplicações web modernas, API's e IA's. Trabalho com **Typescript**, **JavaScript**, **React**, **Node.js**, **Python**, **MySQL**, **Postgres**, **Docker**, e **REST API**.
+Desenvolvedor apaixonado por criar aplicações web modernas, API's e IA's. Trabalho com **Python**, **MySQL**, **Postgres**, **Docker**, e **REST API** e me aventuro em **Typescript**, **JavaScript**, **React** e **Node.js**.
  
 ## 🚀 Meus Projetos em Destaque
 - **API RESTs**: Desenvolvimento de múltiplas APIs RESTful utilizando Python, Node.js e banco de dados relacionais.
